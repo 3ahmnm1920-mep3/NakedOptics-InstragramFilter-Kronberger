@@ -30,3 +30,12 @@ SKIING IN THE 80s
  
  
 # References
+Basic face-mesh Tutorial: https://www.youtube.com/watch?v=_B0G1jIaxMA
+
+Basics Tutorial: https://www.youtube.com/watch?v=xSgRgcNqzfU
+
+Beginner Tutorial: https://www.youtube.com/watch?v=mIt2fdjExy0
+
+Background/Snow Tutorial: https://www.youtube.com/watch?v=rQCR7ooV_Ig
+
+Particle-system Tutorial: https://www.youtube.com/watch?v=uQ0iYf3nJ2A
