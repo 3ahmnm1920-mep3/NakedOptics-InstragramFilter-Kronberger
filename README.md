@@ -2,7 +2,7 @@
 
 
 # Project Description
-A Filter to match the pink/purple design of a Naked Optics product by creating a 80s look and feel filter
+A Filter to match the pink/purple synthwave design of a Naked Optics product by creating a 80s look and feel filter
 
 # Concept
 SKIING IN THE 80s
